@@ -1,0 +1,17 @@
+{
+  "repo_notes": [
+    {
+      "content": "This is a coursework repository for the Johns Hopkins Data Science Specialization on Coursera (datasciencecoursera). It is not a library or application; it contains assignment artifacts: HelloWorld.md (the Data Scientist's Toolbox course markdown exercise) and the specdata/ dataset used in the R Programming course (week 2) assignment, where students write functions such as pollutantmean(), complete(), and corr() over the per-monitor CSV files."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Repository Overview",
+      "purpose": "Explain that this repo holds Coursera Data Science Specialization assignment files (HelloWorld.md markdown exercise plus the specdata dataset), not reusable software; orient readers on the repo's educational purpose."
+    },
+    {
+      "title": "specdata Dataset",
+      "purpose": "Cover specdata/001.csv through specdata/332.csv: the standard Coursera R Programming air-pollution monitoring dataset (sulfate/nitrate readings per monitor ID) used by the pollutantmean, complete, and corr assignment functions; note the file-name-to-monitor-ID convention."
+    }
+  ]
+}
